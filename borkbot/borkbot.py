@@ -1,6 +1,6 @@
 # BorkBot - adapted from HelpDeskBot
 import discord
-from discord.ext.commands import Bot
+from discord.ext import commands
 import logging
 
 
@@ -17,21 +17,32 @@ class BorkBot:
         )
         logging.info("***** Bot starting...")
         self.designated_channel_name = channel_name
+        self.init_extensions = ['cogs.users', 'cogs.misc']
         self.token = token.strip()
-        self.client = Bot(command_prefix=BOT_PREFIX)
+        self.client = commands.Bot(command_prefix=BOT_PREFIX)
+        self.load_extensions()
         self.setup()
+
+    def load_extensions(self):
+        for ext in self.init_extensions:
+            logging.info("+++++ loading " + ext)
+            try:
+                self.client.load_extension(ext)
+            except Exception as e:
+                exc = '{}: {}'.format(type(e).__name__, e)
+                logging.info('Failed to load extension {}\n{}'.format(ext, exc))
+        logging.info("***** Finished loading extensions")
 
     def run(self):
         logging.info("***** Running... " + self.token)
-        self.client.run(self.token)
+        self.client.run(self.token, bot=True, reconnect=True)
 
     def setup(self):
-
         @self.client.event
         async def on_ready():
             logging.info("+++++ Connected as: " + self.client.user.name)
             logging.info("+++++ Listening for private messages in channel #" + self.designated_channel_name)
-            await self.client.change_presence(game=discord.Game(name='BorkBot'))
+            await self.client.change_presence(activity=discord.Game(name="BorkBot"))
 
         @self.client.event
         async def on_message(message):
@@ -51,4 +62,6 @@ class BorkBot:
                              pass_context=True)
         async def hello(context):
             msg = 'Hello, ' + context.message.author.name + "!"
-            await self.client.say(msg)
+            channel = context.message.channel
+            await channel.send(msg)
+
