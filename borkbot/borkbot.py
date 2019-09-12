@@ -3,6 +3,7 @@ import discord
 from discord.ext.commands import Bot
 import logging
 
+
 BOT_PREFIX = (".", "!")
 
 
@@ -16,12 +17,12 @@ class BorkBot:
         )
         logging.info("***** Bot starting...")
         self.designated_channel_name = channel_name
-        self.token = token
+        self.token = token.strip()
         self.client = Bot(command_prefix=BOT_PREFIX)
         self.setup()
 
     def run(self):
-        logging.info("***** Running...")
+        logging.info("***** Running... " + self.token)
         self.client.run(self.token)
 
     def setup(self):
@@ -39,16 +40,15 @@ class BorkBot:
                 return
 
             # pass commands to command processor
-            if message.content.startsWith(BOT_PREFIX):
+            if message.content.startswith(BOT_PREFIX):
                 await self.client.process_commands(message)
 
-            # ---> CUSTOM COMMANDS START HERE ---<
+        # ---> CUSTOM COMMANDS START HERE ---<
 
-            @self.client.command(name="hello",
-                                 description="It says Hello!",
-                                 aliases=['hi', 'sup', 'yo'],
-                                 pass_context=True)
-            async def hello(context):
-                msg = 'Hello, ' + context.message.author.name + "!"
-                await self.client.say(msg)
-
+        @self.client.command(name="hello",
+                             description="It says Hello!",
+                             aliases=['hi', 'sup', 'yo'],
+                             pass_context=True)
+        async def hello(context):
+            msg = 'Hello, ' + context.message.author.name + "!"
+            await self.client.say(msg)
