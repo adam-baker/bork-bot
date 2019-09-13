@@ -1,4 +1,4 @@
-#! python
+#!/usr/bin/python3
 
 from borkbot.borkbot import BorkBot
 import sys
