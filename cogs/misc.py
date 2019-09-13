@@ -9,6 +9,10 @@ class Misc(commands.Cog):
     async def elmo(self, ctx):
         await ctx.send(f'https://tenor.com/view/burn-elmo-pyro-burn-it-down-ashes-gif-5632946')
 
+    @commands.command(name="lenny")
+    async def lenny(self, ctx):
+        await ctx.send('( ͡° ͜ʖ ͡°)')
+
 
 def setup(bot):
     bot.add_cog(Misc(bot))
