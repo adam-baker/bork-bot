@@ -12,9 +12,13 @@ class Users(commands.Cog):
         await ctx.send(f'{member.display_name} joined on {member.joined_at}')
 
     @commands.command(name="barkingsnake")
-    async def joined(self, ctx):
+    async def barkingsnake(self, ctx):
         await ctx.send('_bork_')
         await ctx.send('_hiss_')
+
+    @commands.command(name="dew")
+    async def dew(self, ctx):
+        await ctx.send('')
 
 
 def setup(bot):

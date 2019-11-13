@@ -1,0 +1,1384 @@
+[2019-09-12 20:36:27,295] INFO-root: ***** Bot starting...
+[2019-09-12 20:36:27,296] INFO-root: +++++ loading cogs.users
+[2019-09-12 20:36:27,297] INFO-root: +++++ loading cogs.misc
+[2019-09-12 20:36:27,297] INFO-root: ***** Finished loading extensions
+[2019-09-12 20:36:27,297] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 20:36:27,298] INFO-discord.client: logging in using static token
+[2019-09-12 20:36:27,670] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 20:36:27,673] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 20:36:27,774] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-8178",{"micros":31451,"calls":["discord-sessions-prd-1-19",{"micros":28978,"calls":["start_session",{"micros":25923,"calls":["api-prd-main-hgbn",{"micros":22759,"calls":["get_user",{"micros":2278},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1914},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1835,"calls":[]}]}]}] (Session ID: 6b11ad48294af29c2e15df8213492ce1).
+[2019-09-12 20:36:29,779] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 20:36:29,779] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 22:35:33,225] INFO-root: ***** Bot starting...
+[2019-09-12 22:35:33,226] INFO-root: +++++ loading cogs.users
+[2019-09-12 22:35:33,227] INFO-root: +++++ loading cogs.misc
+[2019-09-12 22:35:33,227] INFO-root: ***** Finished loading extensions
+[2019-09-12 22:35:33,228] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 22:35:33,228] INFO-discord.client: logging in using static token
+[2019-09-12 22:35:33,663] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 22:35:33,668] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 22:35:33,766] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-g8rb",{"micros":30087,"calls":["discord-sessions-prd-1-9",{"micros":28987,"calls":["start_session",{"micros":27492,"calls":["api-prd-main-j3pr",{"micros":24214,"calls":["get_user",{"micros":2568},"add_authorized_ip",{"micros":951},"get_guilds",{"micros":2217},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 525eeb059d194337b1ec4714b7ee1cc8).
+[2019-09-12 22:35:35,770] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 22:35:35,770] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 22:36:47,438] INFO-discord.client: Cleaning up tasks.
+[2019-09-12 22:36:47,438] INFO-discord.client: Cleaning up after 4 tasks.
+[2019-09-12 22:36:47,559] INFO-discord.client: Closing the event loop.
+[2019-09-12 22:37:11,051] INFO-root: ***** Bot starting...
+[2019-09-12 22:37:11,052] INFO-root: +++++ loading cogs.users
+[2019-09-12 22:37:11,053] INFO-root: +++++ loading cogs.misc
+[2019-09-12 22:37:11,054] INFO-root: ***** Finished loading extensions
+[2019-09-12 22:37:11,054] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 22:37:11,054] INFO-discord.client: logging in using static token
+[2019-09-12 22:37:11,411] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 22:37:11,415] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 22:37:11,573] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-q9pq",{"micros":90919,"calls":["discord-sessions-prd-1-30",{"micros":89003,"calls":["start_session",{"micros":86121,"calls":["api-prd-main-05np",{"micros":82477,"calls":["get_user",{"micros":14566},"add_authorized_ip",{"micros":7},"get_guilds",{"micros":2695},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2258,"calls":[]}]}]}] (Session ID: c8c5d0588ba400e6b4ba8a61040dae90).
+[2019-09-12 22:37:13,577] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 22:37:13,577] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 22:37:23,043] INFO-discord.client: Cleaning up tasks.
+[2019-09-12 22:37:23,044] INFO-discord.client: Cleaning up after 4 tasks.
+[2019-09-12 22:37:33,064] INFO-discord.client: All tasks finished cancelling.
+[2019-09-12 22:37:33,065] INFO-discord.client: Closing the event loop.
+[2019-09-12 22:37:40,845] INFO-root: ***** Bot starting...
+[2019-09-12 22:37:40,845] INFO-root: +++++ loading cogs.users
+[2019-09-12 22:37:40,846] INFO-root: +++++ loading cogs.misc
+[2019-09-12 22:37:40,847] INFO-root: ***** Finished loading extensions
+[2019-09-12 22:37:40,847] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 22:37:40,847] INFO-discord.client: logging in using static token
+[2019-09-12 22:37:41,216] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 22:37:41,220] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 22:37:41,390] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-kgv7",{"micros":34658,"calls":["discord-sessions-prd-1-3",{"micros":32733,"calls":["start_session",{"micros":25982,"calls":["api-prd-main-3lf0",{"micros":22734,"calls":["get_user",{"micros":1913},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1649},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":3441,"calls":[]}]}]}] (Session ID: 37d52bea847e6d04f938ac9dac473930).
+[2019-09-12 22:37:43,407] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 22:37:43,407] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 22:38:13,343] INFO-discord.client: Cleaning up tasks.
+[2019-09-12 22:38:13,343] INFO-discord.client: Cleaning up after 4 tasks.
+[2019-09-12 22:38:13,473] INFO-discord.client: Closing the event loop.
+[2019-09-12 22:38:23,827] INFO-root: ***** Bot starting...
+[2019-09-12 22:38:23,828] INFO-root: +++++ loading cogs.users
+[2019-09-12 22:38:23,829] INFO-root: +++++ loading cogs.misc
+[2019-09-12 22:38:23,829] INFO-root: ***** Finished loading extensions
+[2019-09-12 22:38:23,829] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 22:38:23,829] INFO-discord.client: logging in using static token
+[2019-09-12 22:38:24,199] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 22:38:24,203] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 22:38:24,607] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-hbsd",{"micros":300046,"calls":["discord-sessions-prd-1-7",{"micros":296754,"calls":["start_session",{"micros":23338,"calls":["api-prd-main-g1qt",{"micros":20032,"calls":["get_user",{"micros":3445},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1868},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2744,"calls":[]}]}]}] (Session ID: 1d15d39434be76d7e2ebc317b6abaa05).
+[2019-09-12 22:38:26,618] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 22:38:26,619] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 22:38:41,452] INFO-discord.client: Cleaning up tasks.
+[2019-09-12 22:38:41,452] INFO-discord.client: Cleaning up after 4 tasks.
+[2019-09-12 22:38:41,613] INFO-discord.client: Closing the event loop.
+[2019-09-12 22:38:50,066] INFO-root: ***** Bot starting...
+[2019-09-12 22:38:50,067] INFO-root: +++++ loading cogs.users
+[2019-09-12 22:38:50,068] INFO-root: +++++ loading cogs.misc
+[2019-09-12 22:38:50,068] INFO-root: ***** Finished loading extensions
+[2019-09-12 22:38:50,068] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 22:38:50,068] INFO-discord.client: logging in using static token
+[2019-09-12 22:38:50,424] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 22:38:50,428] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 22:38:50,521] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-xdl0",{"micros":29737,"calls":["discord-sessions-prd-1-13",{"micros":24053,"calls":["start_session",{"micros":23035,"calls":["api-prd-main-szzd",{"micros":19237,"calls":["get_user",{"micros":2022},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1882},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":377,"calls":[]}]}]}] (Session ID: e29941e9edce50601344e4c3a863bd85).
+[2019-09-12 22:38:52,525] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 22:38:52,525] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 22:40:00,543] INFO-discord.client: Cleaning up tasks.
+[2019-09-12 22:40:00,544] INFO-discord.client: Cleaning up after 4 tasks.
+[2019-09-12 22:40:04,158] INFO-discord.client: Closing the event loop.
+[2019-09-12 22:41:06,455] INFO-root: ***** Bot starting...
+[2019-09-12 22:41:06,456] INFO-root: +++++ loading cogs.users
+[2019-09-12 22:41:06,457] INFO-root: +++++ loading cogs.misc
+[2019-09-12 22:41:06,457] INFO-root: ***** Finished loading extensions
+[2019-09-12 22:41:06,457] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 22:41:06,457] INFO-discord.client: logging in using static token
+[2019-09-12 22:41:06,833] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 22:41:06,837] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 22:41:06,954] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-1blv",{"micros":53663,"calls":["discord-sessions-prd-1-23",{"micros":52127,"calls":["start_session",{"micros":46232,"calls":["api-prd-main-g79b",{"micros":41739,"calls":["get_user",{"micros":4483},"add_authorized_ip",{"micros":8},"get_guilds",{"micros":2722},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":5222,"calls":[]}]}]}] (Session ID: cf78fe5f99b46f4570d04657d87e3942).
+[2019-09-12 22:41:08,958] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 22:41:08,958] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 22:41:27,383] INFO-discord.client: Cleaning up tasks.
+[2019-09-12 22:41:27,384] INFO-discord.client: Cleaning up after 4 tasks.
+[2019-09-12 22:41:27,520] INFO-discord.client: Closing the event loop.
+[2019-09-12 22:41:37,597] INFO-root: ***** Bot starting...
+[2019-09-12 22:41:37,598] INFO-root: +++++ loading cogs.users
+[2019-09-12 22:41:37,599] INFO-root: +++++ loading cogs.misc
+[2019-09-12 22:41:37,599] INFO-root: ***** Finished loading extensions
+[2019-09-12 22:41:37,599] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 22:41:37,599] INFO-discord.client: logging in using static token
+[2019-09-12 22:41:37,930] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 22:41:37,934] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 22:41:38,028] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-6nr9",{"micros":28163,"calls":["discord-sessions-prd-1-27",{"micros":26023,"calls":["start_session",{"micros":21586,"calls":["api-prd-main-xp14",{"micros":18496,"calls":["get_user",{"micros":3037},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1810},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 0ec56139075b4d81c64b3854dd272602).
+[2019-09-12 22:41:40,032] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 22:41:40,033] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 22:50:02,817] INFO-root: ***** Bot starting...
+[2019-09-12 22:50:02,817] INFO-root: +++++ loading cogs.users
+[2019-09-12 22:50:02,820] INFO-root: +++++ loading cogs.misc
+[2019-09-12 22:50:02,820] INFO-root: ***** Finished loading extensions
+[2019-09-12 22:50:02,820] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 22:50:02,820] INFO-discord.client: logging in using static token
+[2019-09-12 22:50:03,221] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 22:50:03,223] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 22:50:03,376] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-n5w0",{"micros":63034,"calls":["discord-sessions-prd-1-7",{"micros":56213,"calls":["start_session",{"micros":53150,"calls":["api-prd-main-zxzk",{"micros":49969,"calls":["get_user",{"micros":3890},"add_authorized_ip",{"micros":7},"get_guilds",{"micros":11996},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 236d22d036cd7173eb0189b7b54fc393).
+[2019-09-12 22:50:05,382] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 22:50:05,382] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 22:50:22,984] INFO-discord.client: Cleaning up tasks.
+[2019-09-12 22:50:22,984] INFO-discord.client: Cleaning up after 4 tasks.
+[2019-09-12 22:50:23,678] INFO-discord.client: Closing the event loop.
+[2019-09-12 22:50:29,800] INFO-discord.client: Cleaning up tasks.
+[2019-09-12 22:50:29,800] INFO-discord.client: Cleaning up after 4 tasks.
+[2019-09-12 22:50:32,857] INFO-discord.client: Closing the event loop.
+[2019-09-12 23:08:06,650] INFO-root: ***** Bot starting...
+[2019-09-12 23:08:06,650] INFO-root: +++++ loading cogs.users
+[2019-09-12 23:08:06,652] INFO-root: +++++ loading cogs.misc
+[2019-09-12 23:08:06,653] INFO-root: ***** Finished loading extensions
+[2019-09-12 23:08:06,653] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 23:08:06,653] INFO-discord.client: logging in using static token
+[2019-09-12 23:08:07,043] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 23:08:07,046] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 23:08:07,181] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-mhz2",{"micros":66848,"calls":["discord-sessions-prd-1-25",{"micros":65024,"calls":["start_session",{"micros":56508,"calls":["api-prd-main-g79b",{"micros":52191,"calls":["get_user",{"micros":2699},"add_authorized_ip",{"micros":9},"get_guilds",{"micros":8753},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7793,"calls":[]}]}]}] (Session ID: c7b8ad1775a24baf75f126e913f6e197).
+[2019-09-12 23:08:09,185] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 23:08:09,185] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-12 23:10:54,502] INFO-discord.client: Cleaning up tasks.
+[2019-09-12 23:10:54,502] INFO-discord.client: Cleaning up after 4 tasks.
+[2019-09-12 23:10:55,722] INFO-discord.client: Closing the event loop.
+[2019-09-12 23:15:29,107] INFO-root: ***** Bot starting...
+[2019-09-12 23:15:29,108] INFO-root: +++++ loading cogs.users
+[2019-09-12 23:15:29,109] INFO-root: +++++ loading cogs.misc
+[2019-09-12 23:15:29,110] INFO-root: ***** Finished loading extensions
+[2019-09-12 23:15:29,110] INFO-root: ***** Running... NjIxMTYzMjIzNTQ2MzMxMTY3.XXsAfg.AanthhQIXaJMGZi51lCLuXYcSms
+[2019-09-12 23:15:29,110] INFO-discord.client: logging in using static token
+[2019-09-12 23:15:29,531] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-12 23:15:29,535] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-12 23:15:29,634] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-755n",{"micros":34672,"calls":["discord-sessions-prd-1-15",{"micros":32572,"calls":["start_session",{"micros":27510,"calls":["api-prd-main-sbgh",{"micros":23516,"calls":["get_user",{"micros":2567},"add_authorized_ip",{"micros":8},"get_guilds",{"micros":2174},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":3595,"calls":[]}]}]}] (Session ID: 7608e7509588877abb4f8debf3312b53).
+[2019-09-12 23:15:31,637] INFO-root: +++++ Connected as: borkbot
+[2019-09-12 23:15:31,637] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-13 02:05:12,616] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-13 02:05:12,616] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-13 02:05:12,906] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-13 02:05:12,908] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-13 02:05:12,977] INFO-discord.gateway: Shard ID None has successfully RESUMED session 7608e7509588877abb4f8debf3312b53 under trace ["gateway-prd-main-q4mx",{"micros":535,"calls":["discord-sessions-prd-1-15",{"micros":14}]}].
+[2019-09-13 02:05:59,880] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-13 02:19:36,417] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-13 02:19:36,417] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-13 02:19:36,698] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-13 02:19:36,701] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-13 02:19:36,762] INFO-discord.gateway: Shard ID None has successfully RESUMED session 7608e7509588877abb4f8debf3312b53 under trace ["gateway-prd-main-v1kd",{"micros":1222,"calls":["discord-sessions-prd-1-15",{"micros":11}]}].
+[2019-09-13 02:20:20,447] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-13 03:23:33,106] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-13 03:24:03,141] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-13 03:24:03,142] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-13 03:24:03,146] ERROR-discord.client: Attempting a reconnect in 1.01s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 955, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 825, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "/usr/lib/python3.6/concurrent/futures/thread.py", line 56, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 427, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 796, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 158, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 1005, in __aenter__
+    self._resp = await self._coro
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 476, in _request
+    timeout=real_timeout
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 522, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 854, in _create_connection
+    req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 959, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:None [Name or service not known]
+[2019-09-13 03:24:04,177] ERROR-discord.client: Attempting a reconnect in 2.10s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 955, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 825, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "/usr/lib/python3.6/concurrent/futures/thread.py", line 56, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 418, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 796, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 158, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 1005, in __aenter__
+    self._resp = await self._coro
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 476, in _request
+    timeout=real_timeout
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 522, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 854, in _create_connection
+    req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 959, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:None [Name or service not known]
+[2019-09-13 03:24:06,288] ERROR-discord.client: Attempting a reconnect in 4.73s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 955, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 825, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "/usr/lib/python3.6/concurrent/futures/thread.py", line 56, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 418, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 796, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 158, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 1005, in __aenter__
+    self._resp = await self._coro
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 476, in _request
+    timeout=real_timeout
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 522, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 854, in _create_connection
+    req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 959, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:None [Name or service not known]
+[2019-09-13 03:24:11,028] ERROR-discord.client: Attempting a reconnect in 2.27s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 955, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 825, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "/usr/lib/python3.6/concurrent/futures/thread.py", line 56, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 418, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 796, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 158, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 1005, in __aenter__
+    self._resp = await self._coro
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 476, in _request
+    timeout=real_timeout
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 522, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 854, in _create_connection
+    req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 959, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:None [Name or service not known]
+[2019-09-13 03:24:13,308] ERROR-discord.client: Attempting a reconnect in 20.67s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 955, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 825, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "/usr/lib/python3.6/concurrent/futures/thread.py", line 56, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 418, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 796, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/http.py", line 158, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 1005, in __aenter__
+    self._resp = await self._coro
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/client.py", line 476, in _request
+    timeout=real_timeout
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 522, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 854, in _create_connection
+    req, traces, timeout)
+  File "/home/adam/.local/lib/python3.6/site-packages/aiohttp/connector.py", line 959, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:None [Name or service not known]
+[2019-09-13 03:24:34,603] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-13 03:24:34,606] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-13 03:24:34,692] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-1ksp",{"micros":27377,"calls":["discord-sessions-prd-1-15",{"micros":24652,"calls":["start_session",{"micros":21574,"calls":["api-prd-main-t36q",{"micros":18409,"calls":["get_user",{"micros":3324},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1923},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":597,"calls":[]}]}]}] (Session ID: 0867f9767607c97f3c17cb06514986ad).
+[2019-09-13 03:24:36,696] INFO-root: +++++ Connected as: borkbot
+[2019-09-13 03:24:36,696] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-13 03:28:00,862] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-13 03:28:20,899] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-13 03:28:20,899] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-13 03:28:21,166] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-13 03:28:21,169] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-13 03:28:21,228] INFO-discord.gateway: Shard ID None has successfully RESUMED session 0867f9767607c97f3c17cb06514986ad under trace ["gateway-prd-main-c1l0",{"micros":1682,"calls":["discord-sessions-prd-1-15",{"micros":15}]}].
+[2019-09-13 11:43:22,443] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-13 11:43:42,474] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-13 11:43:42,475] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-13 11:43:42,766] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-13 11:43:42,769] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-13 11:43:42,833] INFO-discord.gateway: Shard ID None has successfully RESUMED session 0867f9767607c97f3c17cb06514986ad under trace ["gateway-prd-main-f5r9",{"micros":3630,"calls":["discord-sessions-prd-1-15",{"micros":70}]}].
+[2019-09-13 12:44:26,935] WARNING-discord.gateway: Can't keep up, websocket is 14.0s behind.
+[2019-09-13 17:08:13,532] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-13 17:08:33,569] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-13 17:08:33,570] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-13 17:08:33,823] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-13 17:08:33,826] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-13 17:08:33,894] INFO-discord.gateway: Shard ID None has successfully RESUMED session 0867f9767607c97f3c17cb06514986ad under trace ["gateway-prd-main-nvs8",{"micros":1854,"calls":["discord-sessions-prd-1-15",{"micros":43}]}].
+[2019-09-13 19:38:01,607] WARNING-discord.gateway: Can't keep up, websocket is 15.8s behind.
+[2019-09-13 19:40:53,830] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-13 19:40:53,831] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-13 19:40:54,123] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-13 19:40:54,125] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-13 19:40:54,192] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-13 19:40:54,192] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-13 19:40:54,279] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-nz4x",{"micros":25318,"calls":["discord-sessions-prd-1-12",{"micros":24310,"calls":["start_session",{"micros":21619,"calls":["api-prd-main-z157",{"micros":18715,"calls":["get_user",{"micros":2960},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1665},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 790e0810661640ad47be1a84ff377939).
+[2019-09-13 19:40:56,284] INFO-root: +++++ Connected as: borkbot
+[2019-09-13 19:40:56,284] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-13 19:42:09,304] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-13 22:34:42,732] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-13 22:34:42,732] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-13 22:34:42,995] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-13 22:34:42,996] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-13 22:34:43,062] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-13 22:34:43,063] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-13 22:34:43,161] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-b811",{"micros":38872,"calls":["discord-sessions-prd-1-27",{"micros":35108,"calls":["start_session",{"micros":32840,"calls":["api-prd-main-dhp0",{"micros":22553,"calls":["get_user",{"micros":8131},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1869},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":828,"calls":[]}]}]}] (Session ID: 8c6505f0f08fed257a350ee87acad345).
+[2019-09-13 22:34:45,166] INFO-root: +++++ Connected as: borkbot
+[2019-09-13 22:34:45,167] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-14 15:33:04,909] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-14 15:33:04,909] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-14 15:33:05,171] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-14 15:33:05,171] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-14 15:33:05,234] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-14 15:33:05,235] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-14 15:33:05,350] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-j5t4",{"micros":53945,"calls":["discord-sessions-prd-1-8",{"micros":53101,"calls":["start_session",{"micros":48184,"calls":["api-prd-main-g6p0",{"micros":42589,"calls":["get_user",{"micros":4578},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1486},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: a62156f71e92f5c3d47b2939a8481a88).
+[2019-09-14 15:33:07,352] INFO-root: +++++ Connected as: borkbot
+[2019-09-14 15:33:07,352] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-14 17:39:21,813] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-14 17:39:28,917] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-14 17:39:28,918] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-14 17:39:29,189] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-14 17:39:29,190] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-14 17:39:29,260] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-14 17:39:29,261] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-14 17:39:29,371] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-cfv7",{"micros":51973,"calls":["discord-sessions-prd-1-3",{"micros":49565,"calls":["start_session",{"micros":46316,"calls":["api-prd-main-szvf",{"micros":42917,"calls":["get_user",{"micros":3113},"add_authorized_ip",{"micros":9},"get_guilds",{"micros":11996},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: cdd68c9932413939b218ae0a5d88af52).
+[2019-09-14 17:39:31,374] INFO-root: +++++ Connected as: borkbot
+[2019-09-14 17:39:31,374] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-14 18:36:46,802] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-14 18:36:53,879] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-14 18:36:53,879] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-14 18:36:54,172] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-14 18:36:54,175] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-14 18:36:54,238] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-14 18:36:54,238] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-14 18:36:54,342] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-r4vr",{"micros":43390,"calls":["discord-sessions-prd-1-18",{"micros":40286,"calls":["start_session",{"micros":38894,"calls":["api-prd-main-wt2d",{"micros":36213,"calls":["get_user",{"micros":2707},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1764},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 71e62cceaaff7e9851249ba302843d54).
+[2019-09-14 18:36:56,346] INFO-root: +++++ Connected as: borkbot
+[2019-09-14 18:36:56,346] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-14 21:58:05,930] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-14 21:58:12,909] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-14 21:58:12,909] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-14 21:58:13,165] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-14 21:58:13,166] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-14 21:58:13,233] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-14 21:58:13,234] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-14 21:58:13,329] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-j5t4",{"micros":32540,"calls":["discord-sessions-prd-1-23",{"micros":30202,"calls":["start_session",{"micros":28156,"calls":["api-prd-main-kgsj",{"micros":25110,"calls":["get_user",{"micros":3010},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":3274},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1116,"calls":[]}]}]}] (Session ID: 08a4250e7e791747eec19f340623c56c).
+[2019-09-14 21:58:15,331] INFO-root: +++++ Connected as: borkbot
+[2019-09-14 21:58:15,332] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-15 19:18:49,817] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-15 19:18:56,860] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-15 19:18:56,860] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-15 19:18:57,119] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-15 19:18:57,119] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-15 19:18:57,181] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-15 19:18:57,181] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-15 19:18:58,749] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-6nr9",{"micros":1503445,"calls":["discord-sessions-prd-1-20",{"micros":1501643,"calls":["start_session",{"micros":22011,"calls":["api-prd-main-33tn",{"micros":18678,"calls":["get_user",{"micros":2131},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":3247},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 208270b101c23724875b5f659f2d038d).
+[2019-09-15 19:19:00,750] INFO-root: +++++ Connected as: borkbot
+[2019-09-15 19:19:00,750] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-15 19:21:18,824] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-15 19:21:25,871] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-15 19:21:25,872] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-15 19:21:26,157] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-15 19:21:26,159] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-15 19:21:26,223] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-15 19:21:26,224] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-15 19:21:26,318] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-gbs0",{"micros":34844,"calls":["discord-sessions-prd-1-4",{"micros":26881,"calls":["start_session",{"micros":23923,"calls":["api-prd-main-03mp",{"micros":19845,"calls":["get_user",{"micros":1762},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":1842},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":18,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 1bc09e921f3f94c91ff0095a5f4c0695).
+[2019-09-15 19:21:28,322] INFO-root: +++++ Connected as: borkbot
+[2019-09-15 19:21:28,323] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-15 21:18:37,803] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-15 21:18:44,734] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-15 21:18:44,735] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-15 21:18:45,022] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-15 21:18:45,025] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-15 21:18:45,107] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-15 21:18:45,108] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-15 21:18:45,191] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-nz4x",{"micros":21605,"calls":["discord-sessions-prd-1-22",{"micros":19394,"calls":["start_session",{"micros":18420,"calls":["api-prd-main-q60s",{"micros":15696,"calls":["get_user",{"micros":2740},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1674},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":191,"calls":[]}]}]}] (Session ID: 0d4d9534cc4607724d299eb20ac9d22d).
+[2019-09-15 21:18:47,195] INFO-root: +++++ Connected as: borkbot
+[2019-09-15 21:18:47,195] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-15 22:03:13,813] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-15 22:03:21,068] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-15 22:03:21,068] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-15 22:03:21,352] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-15 22:03:21,354] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-15 22:03:21,415] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-15 22:03:21,416] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-15 22:03:21,871] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-fn5f",{"micros":389620,"calls":["discord-sessions-prd-1-19",{"micros":386938,"calls":["start_session",{"micros":22261,"calls":["api-prd-main-s8xg",{"micros":19210,"calls":["get_user",{"micros":2962},"add_authorized_ip",{"micros":4},"get_guilds",{"micros":1802},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: d829ed0ade0040bf21e1cdff2a7b1112).
+[2019-09-15 22:03:23,874] INFO-root: +++++ Connected as: borkbot
+[2019-09-15 22:03:23,875] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-15 22:09:09,811] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-15 22:09:16,930] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-15 22:09:16,930] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-15 22:09:17,216] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-15 22:09:17,219] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-15 22:09:17,279] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-15 22:09:17,279] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-15 22:09:17,406] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-m5fs",{"micros":66699,"calls":["discord-sessions-prd-1-2",{"micros":63049,"calls":["start_session",{"micros":60304,"calls":["api-prd-main-w3jt",{"micros":51815,"calls":["get_user",{"micros":5656},"add_authorized_ip",{"micros":13},"get_guilds",{"micros":5964},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":914,"calls":[]}]}]}] (Session ID: 3022a0e1ce4aa7346e87fa692d2c1e02).
+[2019-09-15 22:09:19,410] INFO-root: +++++ Connected as: borkbot
+[2019-09-15 22:09:19,410] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-15 22:23:05,814] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-15 22:23:12,820] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-15 22:23:12,820] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-15 22:23:13,086] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-15 22:23:13,087] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-15 22:23:13,148] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-15 22:23:13,148] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-15 22:23:13,263] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-t7tr",{"micros":52828,"calls":["discord-sessions-prd-1-3",{"micros":45914,"calls":["start_session",{"micros":42606,"calls":["api-prd-main-3v8w",{"micros":39042,"calls":["get_user",{"micros":4755},"add_authorized_ip",{"micros":7},"get_guilds",{"micros":3053},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 01dbbf12bd31b73829a6749f5fe367b9).
+[2019-09-15 22:23:15,267] INFO-root: +++++ Connected as: borkbot
+[2019-09-15 22:23:15,267] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-15 23:17:14,426] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-15 23:17:21,472] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-15 23:17:21,473] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-15 23:17:21,762] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-15 23:17:21,763] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-15 23:17:21,832] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-15 23:17:21,832] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-15 23:17:21,977] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-prj9",{"micros":67186,"calls":["discord-sessions-prd-1-2",{"micros":63752,"calls":["start_session",{"micros":62657,"calls":["api-prd-main-spsv",{"micros":58597,"calls":["get_user",{"micros":10230},"add_authorized_ip",{"micros":8},"get_guilds",{"micros":5381},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":89,"calls":[]}]}]}] (Session ID: 4f4c0e07eddf70654f17107fc0915ce9).
+[2019-09-15 23:17:23,982] INFO-root: +++++ Connected as: borkbot
+[2019-09-15 23:17:23,982] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-16 02:09:02,829] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-16 02:09:09,981] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-16 02:09:09,981] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-16 02:09:10,253] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-16 02:09:10,256] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-16 02:09:10,314] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-16 02:09:10,315] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-16 02:09:10,423] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-cfv7",{"micros":49755,"calls":["discord-sessions-prd-1-13",{"micros":45792,"calls":["start_session",{"micros":37356,"calls":["api-prd-main-r163",{"micros":33674,"calls":["get_user",{"micros":3154},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":2516},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1120,"calls":[]}]}]}] (Session ID: ca2d19423c88f2c4d8551c8a768c5743).
+[2019-09-16 02:09:12,427] INFO-root: +++++ Connected as: borkbot
+[2019-09-16 02:09:12,428] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-16 04:08:48,810] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-16 04:08:55,977] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-16 04:08:55,977] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-16 04:08:56,245] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-16 04:08:56,248] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-16 04:08:56,318] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-16 04:08:56,319] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-16 04:08:56,442] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-f5r9",{"micros":60969,"calls":["discord-sessions-prd-1-14",{"micros":53171,"calls":["start_session",{"micros":45509,"calls":["api-prd-main-w3jt",{"micros":39851,"calls":["get_user",{"micros":4294},"add_authorized_ip",{"micros":8},"get_guilds",{"micros":2702},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":6972,"calls":[]}]}]}] (Session ID: d08f708fcfff9071794ff109af408fe4).
+[2019-09-16 04:08:58,445] INFO-root: +++++ Connected as: borkbot
+[2019-09-16 04:08:58,445] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-16 05:20:50,806] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-16 05:20:58,040] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-16 05:20:58,040] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-16 05:20:58,316] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-16 05:20:58,316] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-16 05:20:58,377] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-16 05:20:58,378] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-16 05:20:58,788] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-t7tr",{"micros":345742,"calls":["discord-sessions-prd-1-9",{"micros":339135,"calls":["start_session",{"micros":20660,"calls":["api-prd-main-gqjq",{"micros":17925,"calls":["get_user",{"micros":2896},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1734},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":223970,"calls":[]}]}]}] (Session ID: 3e1e5c2a0a3235f8692cfea0e915f975).
+[2019-09-16 05:21:00,791] INFO-root: +++++ Connected as: borkbot
+[2019-09-16 05:21:00,791] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-16 05:33:49,924] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-16 05:33:57,087] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-16 05:33:57,087] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-16 05:33:57,361] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-16 05:33:57,362] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-16 05:33:57,420] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-16 05:33:57,421] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-16 05:33:57,512] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-7wqw",{"micros":31216,"calls":["discord-sessions-prd-1-30",{"micros":25792,"calls":["start_session",{"micros":22338,"calls":["api-prd-main-vk9x",{"micros":18759,"calls":["get_user",{"micros":3086},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1855},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: fde0829cdc329005aacb1704918a0b97).
+[2019-09-16 05:33:59,514] INFO-root: +++++ Connected as: borkbot
+[2019-09-16 05:33:59,514] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-16 19:03:41,927] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-16 19:03:48,908] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-16 19:03:48,908] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-16 19:03:49,213] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-16 19:03:49,215] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-16 19:03:49,277] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-16 19:03:49,278] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-16 19:03:49,378] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-n4w5",{"micros":30933,"calls":["discord-sessions-prd-1-24",{"micros":25758,"calls":["start_session",{"micros":24363,"calls":["api-prd-main-788m",{"micros":21273,"calls":["get_user",{"micros":4292},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1857},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":598,"calls":[]}]}]}] (Session ID: ff518010b7f0791bd1ba48cb4c56ee37).
+[2019-09-16 19:03:51,381] INFO-root: +++++ Connected as: borkbot
+[2019-09-16 19:03:51,382] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:07:18,833] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:07:25,929] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:07:25,929] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:07:26,202] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:07:26,204] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:07:26,270] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:07:26,271] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:07:28,042] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-m7js",{"micros":1712438,"calls":["discord-sessions-prd-1-24",{"micros":1706053,"calls":["start_session",{"micros":21605,"calls":["api-prd-main-2tft",{"micros":18491,"calls":["get_user",{"micros":3005},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":1945},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":735447,"calls":[]}]}]}] (Session ID: e817bd101ab556973fa39b578a04813a).
+[2019-09-17 13:07:30,044] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:07:30,044] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:08:00,092] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:08:44,814] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:10:53,840] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:10:53,840] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:10:54,155] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:10:54,158] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:10:54,231] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:10:54,232] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:10:54,329] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-9hm9",{"micros":30986,"calls":["discord-sessions-prd-1-12",{"micros":25099,"calls":["start_session",{"micros":21444,"calls":["api-prd-main-zm7g",{"micros":17889,"calls":["get_user",{"micros":3123},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":1939},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: bc3a716dcdce05e6195650d5ed830ebe).
+[2019-09-17 13:10:56,330] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:10:56,331] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:15:33,841] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:15:33,841] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:15:34,157] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:15:34,159] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:15:34,223] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:15:34,224] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:15:35,124] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-pfc0",{"micros":830378,"calls":["discord-sessions-prd-1-17",{"micros":826939,"calls":["start_session",{"micros":56938,"calls":["api-prd-main-k2jw",{"micros":50134,"calls":["get_user",{"micros":6357},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":3338},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":316674,"calls":[]}]}]}] (Session ID: b60de2daefda4de2c6e6e9475a72b49d).
+[2019-09-17 13:15:37,125] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:15:37,125] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:17:33,805] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:17:41,114] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:17:41,115] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:17:41,449] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:17:41,452] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:17:41,584] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:17:41,585] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:17:41,800] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-k3dd",{"micros":146601,"calls":["discord-sessions-prd-1-24",{"micros":66520,"calls":["start_session",{"micros":65536,"calls":["api-prd-main-1bjt",{"micros":61736,"calls":["get_user",{"micros":17756},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":6256},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":3,"calls":[]}]}]}] (Session ID: c35f646bd7dd478dff991763ba91bb8a).
+[2019-09-17 13:17:43,802] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:17:43,803] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:20:41,816] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:20:48,857] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:20:48,857] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:20:49,171] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:20:49,173] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:20:49,261] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:20:49,262] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:20:49,409] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-m6zp",{"micros":32740,"calls":["discord-sessions-prd-1-29",{"micros":25844,"calls":["start_session",{"micros":25078,"calls":["api-prd-main-fwmq",{"micros":21142,"calls":["get_user",{"micros":3550},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":2188},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":86,"calls":[]}]}]}] (Session ID: 173eb5a6fd20e24906542a6235a89c3f).
+[2019-09-17 13:20:51,418] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:20:51,419] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:21:23,069] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:21:23,070] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:26:51,884] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:26:51,885] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:26:52,197] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:26:52,199] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:26:52,261] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:26:52,261] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:26:52,857] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-gxnx",{"micros":535975,"calls":["discord-sessions-prd-1-20",{"micros":532993,"calls":["start_session",{"micros":28177,"calls":["api-prd-main-5d4j",{"micros":25083,"calls":["get_user",{"micros":4853},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1703},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":258184,"calls":[]}]}]}] (Session ID: 779d0489b0085b382e26548688dbb13d).
+[2019-09-17 13:26:54,859] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:26:54,860] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:27:56,965] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:27:56,965] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:27:57,274] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:27:57,276] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:27:57,356] INFO-discord.gateway: Shard ID None has successfully RESUMED session 779d0489b0085b382e26548688dbb13d under trace ["gateway-prd-main-n4w5",{"micros":2985,"calls":["discord-sessions-prd-1-20",{"micros":313}]}].
+[2019-09-17 13:31:19,939] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:31:27,142] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:31:27,143] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:31:27,457] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:31:27,459] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:31:27,521] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:31:27,522] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:31:27,618] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-pqcd",{"micros":29022,"calls":["discord-sessions-prd-1-7",{"micros":27171,"calls":["start_session",{"micros":24417,"calls":["api-prd-main-63c8",{"micros":21528,"calls":["get_user",{"micros":3040},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1863},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1866,"calls":[]}]}]}] (Session ID: 2272cf88cdff8800c82af3862e72047c).
+[2019-09-17 13:31:29,620] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:31:29,621] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:32:12,814] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:41:22,810] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:41:29,733] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:41:29,734] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:41:30,029] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:41:30,032] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:41:30,094] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:41:30,095] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:41:30,855] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-3pw1",{"micros":701049,"calls":["discord-sessions-prd-1-25",{"micros":694834,"calls":["start_session",{"micros":40613,"calls":["api-prd-main-4rfp",{"micros":36876,"calls":["get_user",{"micros":5481},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":2208},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":292234,"calls":[]}]}]}] (Session ID: 6a363a836d5c4b0a023dd09f680d1a27).
+[2019-09-17 13:41:32,859] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:41:32,859] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:43:12,086] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:43:12,086] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:43:12,367] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:43:12,369] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:43:12,440] INFO-discord.gateway: Shard ID None has successfully RESUMED session 6a363a836d5c4b0a023dd09f680d1a27 under trace ["gateway-prd-main-mhz2",{"micros":2494,"calls":["discord-sessions-prd-1-25",{"micros":95}]}].
+[2019-09-17 13:44:07,803] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:44:14,828] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:44:14,828] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:44:15,121] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:44:15,123] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:44:15,197] INFO-discord.gateway: Shard ID None has successfully RESUMED session 6a363a836d5c4b0a023dd09f680d1a27 under trace ["gateway-prd-main-r4vr",{"micros":2416,"calls":["discord-sessions-prd-1-25",{"micros":33}]}].
+[2019-09-17 13:45:09,807] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:45:16,940] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:45:16,940] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:45:17,236] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:45:17,237] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:45:17,314] INFO-discord.gateway: Shard ID None has successfully RESUMED session 6a363a836d5c4b0a023dd09f680d1a27 under trace ["gateway-prd-main-ch39",{"micros":5228,"calls":["discord-sessions-prd-1-25",{"micros":62}]}].
+[2019-09-17 13:48:38,830] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:48:45,943] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:48:45,943] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:48:46,223] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:48:46,224] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:48:46,299] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:48:46,299] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:48:46,402] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-1blv",{"micros":40421,"calls":["discord-sessions-prd-1-28",{"micros":38667,"calls":["start_session",{"micros":35188,"calls":["api-prd-main-214t",{"micros":31782,"calls":["get_user",{"micros":3689},"add_authorized_ip",{"micros":8},"get_guilds",{"micros":3624},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2709,"calls":[]}]}]}] (Session ID: a2a84f26aea1c8831a54b1a6b174fe94).
+[2019-09-17 13:48:48,405] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:48:48,406] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:49:20,082] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:49:20,082] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:50:37,059] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:50:37,059] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:50:37,343] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:50:37,344] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:50:37,423] INFO-discord.gateway: Shard ID None has successfully RESUMED session a2a84f26aea1c8831a54b1a6b174fe94 under trace ["gateway-prd-main-gs8l",{"micros":4671,"calls":["discord-sessions-prd-1-28",{"micros":92}]}].
+[2019-09-17 13:53:21,914] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:53:21,914] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:53:22,203] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:53:22,206] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:53:22,274] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 13:53:22,274] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 13:53:23,058] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-wj2z",{"micros":717195,"calls":["discord-sessions-prd-1-20",{"micros":715497,"calls":["start_session",{"micros":18385,"calls":["api-prd-main-hx3n",{"micros":15593,"calls":["get_user",{"micros":2566},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1752},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":214048,"calls":[]}]}]}] (Session ID: e17c686c114758dfdbe842ab7b330fc7).
+[2019-09-17 13:53:25,062] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 13:53:25,062] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 13:54:11,805] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:54:53,058] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:55:52,946] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:55:52,947] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:55:53,260] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:55:53,261] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:55:53,327] INFO-discord.gateway: Shard ID None has successfully RESUMED session e17c686c114758dfdbe842ab7b330fc7 under trace ["gateway-prd-main-82gw",{"micros":1429,"calls":["discord-sessions-prd-1-20",{"micros":40}]}].
+[2019-09-17 13:57:12,980] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:57:12,981] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:57:13,274] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:57:13,276] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:57:13,341] INFO-discord.gateway: Shard ID None has successfully RESUMED session e17c686c114758dfdbe842ab7b330fc7 under trace ["gateway-prd-main-qrrd",{"micros":2763,"calls":["discord-sessions-prd-1-20",{"micros":26}]}].
+[2019-09-17 13:57:48,802] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:58:05,749] WARNING-discord.gateway: Can't keep up, websocket is 11.2s behind.
+[2019-09-17 13:58:51,827] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 13:58:58,864] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 13:58:58,865] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 13:58:59,159] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 13:58:59,161] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 13:58:59,231] INFO-discord.gateway: Shard ID None has successfully RESUMED session e17c686c114758dfdbe842ab7b330fc7 under trace ["gateway-prd-main-ffw6",{"micros":9648,"calls":["discord-sessions-prd-1-20",{"micros":28}]}].
+[2019-09-17 14:00:06,739] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 14:00:06,739] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 14:00:07,035] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:00:07,037] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 14:00:07,099] INFO-discord.gateway: Shard ID None has successfully RESUMED session e17c686c114758dfdbe842ab7b330fc7 under trace ["gateway-prd-main-n5w0",{"micros":1744,"calls":["discord-sessions-prd-1-20",{"micros":70}]}].
+[2019-09-17 14:01:10,814] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:01:17,824] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 14:01:17,824] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 14:01:18,113] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:01:18,115] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 14:01:18,183] INFO-discord.gateway: Shard ID None has successfully RESUMED session e17c686c114758dfdbe842ab7b330fc7 under trace ["gateway-prd-main-lfn1",{"micros":5000,"calls":["discord-sessions-prd-1-20",{"micros":123}]}].
+[2019-09-17 14:03:15,809] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:03:22,976] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 14:03:22,977] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 14:03:23,261] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:03:23,264] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 14:03:23,331] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 14:03:23,332] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 14:03:23,530] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-f0kz",{"micros":136341,"calls":["discord-sessions-prd-1-11",{"micros":132266,"calls":["start_session",{"micros":25103,"calls":["api-prd-main-x6l0",{"micros":21570,"calls":["get_user",{"micros":3407},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":1662},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 5a92d861c45ba334b3dac295ef51d4c8).
+[2019-09-17 14:03:25,534] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 14:03:25,535] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 14:04:16,807] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:04:31,094] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 14:04:31,094] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 14:04:31,363] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:04:31,367] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 14:04:31,452] INFO-discord.gateway: Shard ID None has successfully RESUMED session 5a92d861c45ba334b3dac295ef51d4c8 under trace ["gateway-prd-main-prj9",{"micros":2079,"calls":["discord-sessions-prd-1-11",{"micros":34}]}].
+[2019-09-17 14:06:22,825] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:06:29,818] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 14:06:29,819] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 14:06:30,104] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:06:30,107] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 14:06:30,173] INFO-discord.gateway: Shard ID None has successfully RESUMED session 5a92d861c45ba334b3dac295ef51d4c8 under trace ["gateway-prd-main-f9xn",{"micros":1752,"calls":["discord-sessions-prd-1-11",{"micros":59}]}].
+[2019-09-17 14:08:45,818] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:08:52,829] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 14:08:52,829] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 14:08:53,111] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:08:53,112] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 14:08:53,175] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 14:08:53,176] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 14:08:53,283] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-3p16",{"micros":45327,"calls":["discord-sessions-prd-1-15",{"micros":41437,"calls":["start_session",{"micros":39803,"calls":["api-prd-main-nc46",{"micros":35518,"calls":["get_user",{"micros":5814},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":2249},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":611,"calls":[]}]}]}] (Session ID: 12947a45a2c4c57d4397459357398a70).
+[2019-09-17 14:08:55,287] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 14:08:55,287] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 14:13:38,806] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:13:45,844] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 14:13:45,844] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 14:13:46,112] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:13:46,113] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 14:13:46,178] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 14:13:46,180] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 14:13:46,667] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-5kmd",{"micros":426860,"calls":["discord-sessions-prd-1-12",{"micros":425239,"calls":["start_session",{"micros":422473,"calls":["api-prd-main-n4s6",{"micros":52662,"calls":["get_user",{"micros":10856},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":12224},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1897,"calls":[]}]}]}] (Session ID: bc4f541951eccdcfd5306002cf1ea5ab).
+[2019-09-17 14:13:48,671] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 14:13:48,671] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 14:14:20,832] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:15:02,087] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:16:07,401] INFO-discord.gateway: Websocket closed with 1000 (), cannot reconnect.
+[2019-09-17 14:16:07,401] ERROR-discord.client: Attempting a reconnect in 1.66s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 468, in poll_event
+    msg = await self.recv()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 501, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1000 (OK), no reason
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 421, in _connect
+    await self.ws.poll_event()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 476, in poll_event
+    raise ConnectionClosed(exc, shard_id=self.shard_id) from exc
+discord.errors.ConnectionClosed: WebSocket connection is closed: code = 1000 (OK), no reason
+[2019-09-17 14:16:09,322] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:16:09,325] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 14:16:10,285] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-7wqw",{"micros":892222,"calls":["discord-sessions-prd-1-1",{"micros":889625,"calls":["start_session",{"micros":22574,"calls":["api-prd-main-snw9",{"micros":19665,"calls":["get_user",{"micros":3042},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1628},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1650,"calls":[]}]}]}] (Session ID: 588e3e9717218422635bc7bc507b99a2).
+[2019-09-17 14:16:12,289] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 14:16:12,289] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 14:17:23,822] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 14:17:23,822] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 14:17:24,103] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:17:24,106] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 14:17:24,171] INFO-discord.gateway: Shard ID None has successfully RESUMED session 588e3e9717218422635bc7bc507b99a2 under trace ["gateway-prd-main-82gw",{"micros":5567,"calls":["discord-sessions-prd-1-1",{"micros":199}]}].
+[2019-09-17 14:18:50,806] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:20:47,808] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-17 14:20:54,824] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 14:20:54,824] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 14:20:55,127] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 14:20:55,128] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 14:20:55,195] INFO-discord.gateway: Shard ID None has successfully RESUMED session 588e3e9717218422635bc7bc507b99a2 under trace ["gateway-prd-main-r6m8",{"micros":1116,"calls":["discord-sessions-prd-1-1",{"micros":34}]}].
+[2019-09-17 15:19:49,927] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 15:19:49,928] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 15:19:50,217] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 15:19:50,219] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 15:19:50,281] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 15:19:50,282] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 15:19:50,383] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-ggbv",{"micros":41957,"calls":["discord-sessions-prd-1-17",{"micros":38292,"calls":["start_session",{"micros":33150,"calls":["api-prd-main-1bwb",{"micros":26904,"calls":["get_user",{"micros":3648},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":4538},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1887,"calls":[]}]}]}] (Session ID: d8554c08e5c7c56555c58119625471ed).
+[2019-09-17 15:19:52,386] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 15:19:52,386] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-17 17:37:06,103] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-17 17:37:06,104] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-17 17:37:06,365] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-17 17:37:06,366] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-17 17:37:06,432] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-17 17:37:06,432] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-17 17:37:07,733] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-m6zp",{"micros":1237746,"calls":["discord-sessions-prd-1-16",{"micros":1235898,"calls":["start_session",{"micros":22148,"calls":["api-prd-main-cntz",{"micros":18648,"calls":["get_user",{"micros":3428},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":2046},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1000637,"calls":[]}]}]}] (Session ID: 7da7d4197b9ab16be28e8436a2045a13).
+[2019-09-17 17:37:08,171] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-09-17 17:37:09,736] INFO-root: +++++ Connected as: borkbot
+[2019-09-17 17:37:09,737] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-18 15:58:39,821] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-18 15:58:46,951] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-18 15:58:46,951] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-18 15:58:47,226] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-18 15:58:47,226] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-18 15:58:47,294] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-18 15:58:47,294] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-18 15:58:48,313] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-k3dd",{"micros":955748,"calls":["discord-sessions-prd-1-26",{"micros":949857,"calls":["start_session",{"micros":34144,"calls":["api-prd-main-p0s3",{"micros":30061,"calls":["get_user",{"micros":5749},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":4627},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":147158,"calls":[]}]}]}] (Session ID: 89ceffcba528bfd5bb1b9479103e1854).
+[2019-09-18 15:58:50,314] INFO-root: +++++ Connected as: borkbot
+[2019-09-18 15:58:50,314] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-24 14:42:22,059] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-24 14:42:29,116] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-24 14:42:29,116] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-24 14:42:29,367] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-24 14:42:29,368] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-24 14:42:29,434] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-24 14:42:29,434] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-24 14:42:29,543] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-j486",{"micros":47233,"calls":["discord-sessions-prd-1-14",{"micros":38085,"calls":["start_session",{"micros":36745,"calls":["api-prd-main-k8cl",{"micros":33655,"calls":["get_user",{"micros":10906},"add_authorized_ip",{"micros":7},"get_guilds",{"micros":3569},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 60b0f72495bf46be57597b3f63a94283).
+[2019-09-24 14:42:31,546] INFO-root: +++++ Connected as: borkbot
+[2019-09-24 14:42:31,547] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-24 14:43:03,315] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-24 14:43:03,316] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-24 22:30:27,351] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-24 22:30:27,351] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-24 22:30:27,796] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-24 22:30:27,798] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-24 22:30:27,890] INFO-discord.gateway: Shard ID None has successfully RESUMED session 60b0f72495bf46be57597b3f63a94283 under trace ["gateway-prd-main-224m",{"micros":9052,"calls":["discord-sessions-prd-1-14",{"micros":18}]}].
+[2019-09-24 22:31:22,714] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-24 23:04:50,368] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-24 23:04:50,368] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-24 23:04:50,643] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-24 23:04:50,645] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-24 23:04:50,708] INFO-discord.gateway: Shard ID None has successfully RESUMED session 60b0f72495bf46be57597b3f63a94283 under trace ["gateway-prd-main-8178",{"micros":2949,"calls":["discord-sessions-prd-1-14",{"micros":13}]}].
+[2019-09-24 23:05:31,603] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-25 01:43:08,325] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-25 01:43:08,325] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-25 01:43:08,610] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-25 01:43:08,612] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-25 01:43:08,674] INFO-discord.gateway: Shard ID None has successfully RESUMED session 60b0f72495bf46be57597b3f63a94283 under trace ["gateway-prd-main-dzdh",{"micros":2053,"calls":["discord-sessions-prd-1-14",{"micros":27}]}].
+[2019-09-25 01:44:20,892] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-25 04:10:05,888] INFO-discord.gateway: Websocket closed with 1001 (CloudFlare WebSocket proxy restarting), attempting a reconnect.
+[2019-09-25 04:10:05,888] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-25 04:10:06,177] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-25 04:10:06,178] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-25 04:10:06,267] INFO-discord.gateway: Shard ID None has successfully RESUMED session 60b0f72495bf46be57597b3f63a94283 under trace ["gateway-prd-main-3dcm",{"micros":1782,"calls":["discord-sessions-prd-1-14",{"micros":24}]}].
+[2019-09-25 04:10:57,597] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-25 13:54:30,524] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-09-25 15:34:58,379] INFO-discord.gateway: Websocket closed with 1001 (CloudFlare WebSocket proxy restarting), attempting a reconnect.
+[2019-09-25 15:34:58,379] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-25 15:34:58,643] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-25 15:34:58,643] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-25 15:34:58,709] INFO-discord.gateway: Shard ID None has successfully RESUMED session 60b0f72495bf46be57597b3f63a94283 under trace ["gateway-prd-main-gzs2",{"micros":2555,"calls":["discord-sessions-prd-1-14",{"micros":27}]}].
+[2019-09-25 15:36:14,933] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-27 08:29:22,878] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-27 08:29:22,878] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-27 08:29:23,152] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-27 08:29:23,152] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-27 08:29:23,214] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-27 08:29:23,215] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-27 08:29:23,306] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-kgv7",{"micros":29777,"calls":["discord-sessions-prd-1-23",{"micros":23442,"calls":["start_session",{"micros":22224,"calls":["api-prd-main-v8hw",{"micros":18823,"calls":["get_user",{"micros":2751},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1965},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":336,"calls":[]}]}]}] (Session ID: 631af87219d871648e6424970e1aa105).
+[2019-09-27 08:29:25,309] INFO-root: +++++ Connected as: borkbot
+[2019-09-27 08:29:25,309] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-27 08:29:57,080] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-27 11:37:22,556] INFO-discord.gateway: Websocket closed with 1001 (CloudFlare WebSocket proxy restarting), attempting a reconnect.
+[2019-09-27 11:37:22,556] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-27 11:37:22,854] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-27 11:37:22,857] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-27 11:37:23,067] INFO-discord.gateway: Shard ID None has successfully RESUMED session 631af87219d871648e6424970e1aa105 under trace ["gateway-prd-main-z4nz",{"micros":8224,"calls":["discord-sessions-prd-1-23",{"micros":26}]}].
+[2019-09-27 11:38:27,309] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-27 11:55:03,021] INFO-discord.gateway: Websocket closed with 1001 (CloudFlare WebSocket proxy restarting), attempting a reconnect.
+[2019-09-27 11:55:03,021] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-27 11:55:03,322] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-27 11:55:03,324] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-27 11:55:03,392] INFO-discord.gateway: Shard ID None has successfully RESUMED session 631af87219d871648e6424970e1aa105 under trace ["gateway-prd-main-5z1t",{"micros":1070,"calls":["discord-sessions-prd-1-23",{"micros":26}]}].
+[2019-09-27 11:55:56,647] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-27 13:21:56,819] INFO-discord.gateway: Websocket closed with 1001 (CloudFlare WebSocket proxy restarting), attempting a reconnect.
+[2019-09-27 13:21:56,819] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-27 13:21:57,130] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-27 13:21:57,133] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-27 13:21:57,202] INFO-discord.gateway: Shard ID None has successfully RESUMED session 631af87219d871648e6424970e1aa105 under trace ["gateway-prd-main-tbh9",{"micros":8225,"calls":["discord-sessions-prd-1-23",{"micros":30}]}].
+[2019-09-27 13:23:03,535] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-27 14:15:22,828] INFO-discord.gateway: Websocket closed with 1001 (CloudFlare WebSocket proxy restarting), attempting a reconnect.
+[2019-09-27 14:15:22,829] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-27 14:15:23,182] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-27 14:15:23,184] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-27 14:15:23,419] INFO-discord.gateway: Shard ID None has successfully RESUMED session 631af87219d871648e6424970e1aa105 under trace ["gateway-prd-main-r1jf",{"micros":1261,"calls":["discord-sessions-prd-1-23",{"micros":26}]}].
+[2019-09-27 14:16:16,012] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-27 14:43:34,563] INFO-discord.gateway: Websocket closed with 1001 (), attempting a reconnect.
+[2019-09-27 14:43:34,564] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-27 14:43:34,845] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-27 14:43:34,847] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-27 14:43:34,909] INFO-discord.gateway: Shard ID None has successfully RESUMED session 631af87219d871648e6424970e1aa105 under trace ["gateway-prd-main-dzdh",{"micros":2445,"calls":["discord-sessions-prd-1-23",{"micros":16}]}].
+[2019-09-27 14:44:15,755] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:05:45,044] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:05:45,044] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:05:53,053] ERROR-discord.client: Attempting a reconnect in 1.81s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 528, in transfer_data
+    msg = yield from self.read_message()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 580, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 645, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 710, in read_frame
+    extensions=self.extensions,
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/framing.py", line 100, in read
+    data = yield from reader(2)
+  File "/usr/lib/python3.6/asyncio/streams.py", line 672, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 468, in poll_event
+    msg = await self.recv()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 501, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 421, in _connect
+    await self.ws.poll_event()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 473, in poll_event
+    raise ResumeWebSocket(self.shard_id) from exc
+discord.gateway.ResumeWebSocket: None
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 427, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 225, in from_client
+    ws = await websockets.connect(gateway, loop=client.loop, klass=cls, compression=None)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/py35/client.py", line 19, in __await_impl__
+    extra_headers=protocol.extra_headers,
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/client.py", line 263, in handshake
+    raise InvalidStatusCode(status_code)
+websockets.exceptions.InvalidStatusCode: Status code not 101: 520
+[2019-09-28 11:05:59,496] ERROR-discord.client: Attempting a reconnect in 2.18s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 418, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 225, in from_client
+    ws = await websockets.connect(gateway, loop=client.loop, klass=cls, compression=None)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/py35/client.py", line 19, in __await_impl__
+    extra_headers=protocol.extra_headers,
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/client.py", line 263, in handshake
+    raise InvalidStatusCode(status_code)
+websockets.exceptions.InvalidStatusCode: Status code not 101: 520
+[2019-09-28 11:06:06,885] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:06:07,063] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:06:07,357] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-q005",{"micros":131959,"calls":["discord-sessions-prd-1-20",{"micros":24833,"calls":["start_session",{"micros":24346,"calls":["api-prd-main-cpr6",{"micros":21095,"calls":["get_user",{"micros":3252},"add_authorized_ip",{"micros":5},"get_guilds",{"micros":1989},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: a1dec0ac19d315a4ae54646bdcbd7902).
+[2019-09-28 11:06:09,363] INFO-root: +++++ Connected as: borkbot
+[2019-09-28 11:06:09,363] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-09-28 11:06:33,061] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:06:33,061] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:06:37,803] ERROR-discord.client: Attempting a reconnect in 0.19s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 528, in transfer_data
+    msg = yield from self.read_message()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 580, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 645, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 710, in read_frame
+    extensions=self.extensions,
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/framing.py", line 100, in read
+    data = yield from reader(2)
+  File "/usr/lib/python3.6/asyncio/streams.py", line 672, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 468, in poll_event
+    msg = await self.recv()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 501, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 421, in _connect
+    await self.ws.poll_event()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 473, in poll_event
+    raise ResumeWebSocket(self.shard_id) from exc
+discord.gateway.ResumeWebSocket: None
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 427, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 225, in from_client
+    ws = await websockets.connect(gateway, loop=client.loop, klass=cls, compression=None)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/py35/client.py", line 19, in __await_impl__
+    extra_headers=protocol.extra_headers,
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/client.py", line 263, in handshake
+    raise InvalidStatusCode(status_code)
+websockets.exceptions.InvalidStatusCode: Status code not 101: 520
+[2019-09-28 11:06:41,295] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:06:41,301] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:06:41,376] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:07:11,437] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:07:11,437] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:07:23,042] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:07:23,042] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:07:28,897] ERROR-discord.client: Attempting a reconnect in 12.08s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 528, in transfer_data
+    msg = yield from self.read_message()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 580, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 645, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 710, in read_frame
+    extensions=self.extensions,
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/framing.py", line 100, in read
+    data = yield from reader(2)
+  File "/usr/lib/python3.6/asyncio/streams.py", line 672, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 468, in poll_event
+    msg = await self.recv()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 501, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 421, in _connect
+    await self.ws.poll_event()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 473, in poll_event
+    raise ResumeWebSocket(self.shard_id) from exc
+discord.gateway.ResumeWebSocket: None
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 427, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 225, in from_client
+    ws = await websockets.connect(gateway, loop=client.loop, klass=cls, compression=None)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/py35/client.py", line 19, in __await_impl__
+    extra_headers=protocol.extra_headers,
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/client.py", line 263, in handshake
+    raise InvalidStatusCode(status_code)
+websockets.exceptions.InvalidStatusCode: Status code not 101: 520
+[2019-09-28 11:07:29,564] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:07:45,697] ERROR-discord.client: Attempting a reconnect in 14.26s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 418, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0, loop=self.loop)
+  File "/usr/lib/python3.6/asyncio/tasks.py", line 358, in wait_for
+    return fut.result()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 225, in from_client
+    ws = await websockets.connect(gateway, loop=client.loop, klass=cls, compression=None)
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/py35/client.py", line 19, in __await_impl__
+    extra_headers=protocol.extra_headers,
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/client.py", line 263, in handshake
+    raise InvalidStatusCode(status_code)
+websockets.exceptions.InvalidStatusCode: Status code not 101: 520
+[2019-09-28 11:08:00,684] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:08:00,744] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:08:03,801] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:08:44,802] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:08:44,802] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:08:46,121] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:08:46,173] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:08:46,253] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:08:46,254] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:09:03,191] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:09:03,192] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:09:03,435] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:09:03,438] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:09:03,506] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:09:03,506] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:09:12,940] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:09:12,940] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:09:13,116] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:09:13,117] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:09:13,182] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:09:13,183] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:09:23,246] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:09:37,909] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:09:37,909] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:09:38,143] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:09:38,148] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:09:38,215] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:09:38,215] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:09:52,040] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:09:52,041] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:09:52,652] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:09:52,666] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:09:52,777] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:09:52,777] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:10:08,673] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:10:25,939] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:10:35,618] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:10:49,483] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:10:49,483] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:10:49,706] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:10:49,707] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:10:49,772] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:10:49,772] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:11:00,649] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:11:54,741] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:11:54,741] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:11:54,997] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:11:54,997] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:11:55,059] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:11:55,060] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:11:56,417] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:12:28,580] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:12:28,580] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:12:28,806] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:12:28,806] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:12:28,869] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:12:28,870] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:12:53,459] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:13:17,498] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:14:27,599] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:14:27,600] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:14:50,024] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:14:50,025] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:16:47,074] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:16:47,074] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:18:07,254] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:18:07,255] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:18:37,245] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:18:37,245] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:19:46,843] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:19:46,844] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:21:44,299] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:21:44,300] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:22:57,963] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:22:57,963] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:22:58,201] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:22:58,201] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:22:58,264] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:22:58,264] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:24:04,523] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-09-28 11:24:04,523] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-09-28 11:24:04,744] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-09-28 11:24:04,745] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-09-28 11:24:04,815] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:24:04,815] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:24:10,070] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:25:01,953] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-09-28 11:25:57,641] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:25:57,641] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:27:22,974] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:27:22,974] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:28:45,611] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:28:45,611] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:30:36,231] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:30:36,231] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:32:27,327] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:32:27,328] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:33:59,259] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:33:59,260] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:35:00,807] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:35:00,808] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:36:57,013] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:36:57,013] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:37:57,734] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:37:57,735] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:39:05,882] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:39:05,882] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:40:18,350] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:40:18,351] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:41:59,093] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:41:59,093] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:42:59,604] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:42:59,605] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:44:12,996] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:44:12,996] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:45:16,645] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:45:16,646] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:46:51,264] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:46:51,264] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:48:35,712] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:48:35,713] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:49:41,490] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-09-28 11:49:41,491] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-09-28 11:49:42,888] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-cfv7",{"micros":1248941,"calls":["discord-sessions-prd-1-16",{"micros":1247268,"calls":["start_session",{"micros":33813,"calls":["api-prd-main-4ss2",{"micros":29721,"calls":["get_user",{"micros":3793},"add_authorized_ip",{"micros":7},"get_guilds",{"micros":2317},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1000261,"calls":[]}]}]}] (Session ID: b20483fe08cf1bd4d6f8279b15974910).
+[2019-09-28 11:49:43,671] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-09-28 11:49:44,904] INFO-root: +++++ Connected as: borkbot
+[2019-09-28 11:49:44,904] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-10-01 06:01:32,942] INFO-discord.gateway: Websocket closed with 1000 (), cannot reconnect.
+[2019-10-01 06:01:32,943] ERROR-discord.client: Attempting a reconnect in 1.14s
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 468, in poll_event
+    msg = await self.recv()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/home/adam/.local/lib/python3.6/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1000 (OK), no reason
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 457, in connect
+    await self._connect()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/client.py", line 421, in _connect
+    await self.ws.poll_event()
+  File "/home/adam/.local/lib/python3.6/site-packages/discord/gateway.py", line 476, in poll_event
+    raise ConnectionClosed(exc, shard_id=self.shard_id) from exc
+discord.errors.ConnectionClosed: WebSocket connection is closed: code = 1000 (OK), no reason
+[2019-10-01 06:01:37,416] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-01 06:01:37,418] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-10-01 06:01:37,506] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-224m",{"micros":28384,"calls":["discord-sessions-prd-1-16",{"micros":24854,"calls":["start_session",{"micros":22795,"calls":["api-prd-main-6g8f",{"micros":19594,"calls":["get_user",{"micros":3016},"add_authorized_ip",{"micros":3},"get_guilds",{"micros":1873},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 08999c0fe76f2f9f28701a055d6dee4b).
+[2019-10-01 06:01:39,512] INFO-root: +++++ Connected as: borkbot
+[2019-10-01 06:01:39,513] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-10-01 06:02:00,340] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-02 04:05:06,890] INFO-discord.gateway: Websocket closed with 1001 (), attempting a reconnect.
+[2019-10-02 04:05:06,890] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-02 04:05:07,173] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-02 04:05:07,176] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-02 04:05:07,236] INFO-discord.gateway: Shard ID None has successfully RESUMED session 08999c0fe76f2f9f28701a055d6dee4b under trace ["gateway-prd-main-t0zd",{"micros":2160,"calls":["discord-sessions-prd-1-16",{"micros":27}]}].
+[2019-10-02 04:05:48,085] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-02 04:29:11,046] INFO-discord.gateway: Websocket closed with 1001 (), attempting a reconnect.
+[2019-10-02 04:29:11,047] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-02 04:29:11,324] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-02 04:29:11,326] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-02 04:29:11,396] INFO-discord.gateway: Shard ID None has successfully RESUMED session 08999c0fe76f2f9f28701a055d6dee4b under trace ["gateway-prd-main-g2l4",{"micros":9151,"calls":["discord-sessions-prd-1-16",{"micros":13}]}].
+[2019-10-02 04:29:52,241] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-02 06:14:22,903] INFO-discord.gateway: Websocket closed with 1001 (), attempting a reconnect.
+[2019-10-02 06:14:22,903] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-02 06:14:23,156] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-02 06:14:23,156] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-02 06:14:23,221] INFO-discord.gateway: Shard ID None has successfully RESUMED session 08999c0fe76f2f9f28701a055d6dee4b under trace ["gateway-prd-main-p6v6",{"micros":2893,"calls":["discord-sessions-prd-1-16",{"micros":15}]}].
+[2019-10-02 06:15:04,097] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-02 15:28:45,952] INFO-discord.gateway: Websocket closed with 1001 (CloudFlare WebSocket proxy restarting), attempting a reconnect.
+[2019-10-02 15:28:45,952] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-02 15:28:46,265] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-02 15:28:46,266] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-02 15:28:46,335] INFO-discord.gateway: Shard ID None has successfully RESUMED session 08999c0fe76f2f9f28701a055d6dee4b under trace ["gateway-prd-main-r6m8",{"micros":3515,"calls":["discord-sessions-prd-1-16",{"micros":34}]}].
+[2019-10-02 15:29:54,029] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-03 09:33:43,432] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-03 09:33:43,432] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-03 09:33:43,879] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-03 09:33:43,882] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-03 09:33:43,950] INFO-discord.gateway: Shard ID None has successfully RESUMED session 08999c0fe76f2f9f28701a055d6dee4b under trace ["gateway-prd-main-kgv7",{"micros":6254,"calls":["discord-sessions-prd-1-16",{"micros":21}]}].
+[2019-10-03 09:35:03,736] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-04 19:27:44,869] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-04 19:27:44,870] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-04 19:27:45,616] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-04 19:27:45,619] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-04 19:27:45,684] INFO-discord.gateway: Shard ID None has successfully RESUMED session 08999c0fe76f2f9f28701a055d6dee4b under trace ["gateway-prd-main-zh98",{"micros":1459,"calls":["discord-sessions-prd-1-16",{"micros":13}]}].
+[2019-10-04 19:28:48,387] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-04 20:03:45,773] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-04 20:03:45,773] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-04 20:03:46,101] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-04 20:03:46,104] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-04 20:03:46,170] INFO-discord.gateway: Shard ID None has successfully RESUMED session 08999c0fe76f2f9f28701a055d6dee4b under trace ["gateway-prd-main-nm9n",{"micros":1732,"calls":["discord-sessions-prd-1-16",{"micros":28}]}].
+[2019-10-04 20:04:53,211] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-05 10:37:35,329] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-10-05 15:04:55,964] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-10-05 15:13:38,774] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-10-05 15:32:48,608] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-10-05 15:35:05,967] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-10-05 15:40:02,102] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-10-05 15:43:58,831] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-10-06 09:46:32,838] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-06 09:46:32,867] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-06 09:46:33,201] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-06 09:46:33,204] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-06 09:46:33,266] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-10-06 09:46:33,267] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-10-06 09:46:34,713] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-1l3c",{"micros":1380621,"calls":["discord-sessions-prd-1-2",{"micros":1379046,"calls":["start_session",{"micros":39541,"calls":["api-prd-main-b13p",{"micros":32659,"calls":["get_user",{"micros":5610},"add_authorized_ip",{"micros":10},"get_guilds",{"micros":3690},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1001085,"calls":[]}]}]}] (Session ID: 2adf9ffbaf0fd45c78bc4a9afe06591d).
+[2019-10-06 09:46:36,720] INFO-root: +++++ Connected as: borkbot
+[2019-10-06 09:46:36,721] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-10-06 09:46:37,108] WARNING-discord.gateway: Unknown event PRESENCES_REPLACE.
+[2019-10-06 09:47:03,079] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-07 07:21:18,520] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-07 07:21:18,676] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-07 07:21:18,947] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-07 07:21:18,948] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-07 07:21:19,014] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-10-07 07:21:19,014] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-10-07 07:21:19,114] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-1ff1",{"micros":36591,"calls":["discord-sessions-prd-1-23",{"micros":34544,"calls":["start_session",{"micros":30127,"calls":["api-prd-main-t9xd",{"micros":26837,"calls":["get_user",{"micros":3401},"add_authorized_ip",{"micros":6},"get_guilds",{"micros":2043},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":3483,"calls":[]}]}]}] (Session ID: ddaecf818ab4b24f9b863f8931db7672).
+[2019-10-07 07:21:21,117] INFO-root: +++++ Connected as: borkbot
+[2019-10-07 07:21:21,117] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-10-07 07:21:46,064] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-07 07:26:48,953] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-07 07:27:09,012] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-07 07:27:09,013] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-07 07:27:09,286] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-07 07:27:09,286] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-07 07:27:09,362] INFO-discord.gateway: Shard ID None has successfully RESUMED session ddaecf818ab4b24f9b863f8931db7672 under trace ["gateway-prd-main-zjmn",{"micros":13344,"calls":["discord-sessions-prd-1-23",{"micros":28}]}].
+[2019-10-07 07:38:50,557] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-07 07:39:10,592] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-07 07:39:10,593] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-07 07:39:10,864] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-07 07:39:10,866] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-07 07:39:10,933] INFO-discord.gateway: Shard ID None has successfully RESUMED session ddaecf818ab4b24f9b863f8931db7672 under trace ["gateway-prd-main-6l1l",{"micros":2896,"calls":["discord-sessions-prd-1-23",{"micros":64}]}].
+[2019-10-07 08:14:55,946] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-07 08:15:15,982] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-07 08:15:15,982] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-07 08:15:16,262] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-07 08:15:16,264] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-07 08:15:16,339] INFO-discord.gateway: Shard ID None has successfully RESUMED session ddaecf818ab4b24f9b863f8931db7672 under trace ["gateway-prd-main-0q4b",{"micros":1935,"calls":["discord-sessions-prd-1-23",{"micros":86}]}].
+[2019-10-07 09:46:01,451] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2019-10-07 09:46:21,491] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-07 09:46:21,491] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-07 09:46:21,756] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-07 09:46:21,758] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-07 09:46:21,827] INFO-discord.gateway: Shard ID None has successfully RESUMED session ddaecf818ab4b24f9b863f8931db7672 under trace ["gateway-prd-main-lnw9",{"micros":1804,"calls":["discord-sessions-prd-1-23",{"micros":56}]}].
+[2019-10-07 10:02:32,035] WARNING-discord.gateway: Can't keep up, websocket is 21.5s behind.
+[2019-10-09 06:38:29,693] INFO-discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+[2019-10-09 06:38:29,693] INFO-discord.client: Got a request to RESUME the websocket.
+[2019-10-09 06:38:29,956] INFO-discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[2019-10-09 06:38:29,956] INFO-discord.gateway: Shard ID None has sent the RESUME payload.
+[2019-10-09 06:38:30,016] INFO-discord.gateway: Shard ID None session has been invalidated.
+[2019-10-09 06:38:30,016] INFO-discord.gateway: Shard ID None has sent the IDENTIFY payload.
+[2019-10-09 06:38:30,109] INFO-discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-gl78",{"micros":31794,"calls":["discord-sessions-prd-1-1",{"micros":29084,"calls":["start_session",{"micros":23792,"calls":["api-prd-main-mcf4",{"micros":19631,"calls":["get_user",{"micros":3436},"add_authorized_ip",{"micros":7},"get_guilds",{"micros":2151},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1715,"calls":[]}]}]}] (Session ID: 356cac1dc9718bcb32f98bcb593065d7).
+[2019-10-09 06:38:32,111] INFO-root: +++++ Connected as: borkbot
+[2019-10-09 06:38:32,111] INFO-root: +++++ Listening for private messages in channel #bass
+[2019-10-09 06:39:04,055] WARNING-discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
