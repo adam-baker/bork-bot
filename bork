@@ -1,6 +1,7 @@
-#!/usr/bin/python3
+#!/usr/bin/python3 +x
 
 from borkbot.borkbot import BorkBot
 import sys
+print(sys.argv[2])
 borkbot = BorkBot(sys.argv[1], sys.argv[2], sys.argv[3])
 borkbot.run()
