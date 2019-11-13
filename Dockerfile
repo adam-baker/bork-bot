@@ -1,4 +1,4 @@
-FROM python3:latest
+FROM python-alpine
 
 WORKDIR /opt
 RUN git clone https://github.com/adam-baker/bork-bot.git
