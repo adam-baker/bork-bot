@@ -2,6 +2,6 @@
 
 from borkbot.borkbot import BorkBot
 import sys
-import os
-borkbot = BorkBot(sys.argv[1], os.getenv('token'), sys.argv[2])
+
+borkbot = BorkBot(sys.argv[1], sys.argv[2], sys.argv[3])
 borkbot.run()
