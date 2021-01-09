@@ -20,6 +20,9 @@ class Users(commands.Cog):
     async def dew(self, ctx):
         await ctx.send('')
 
+    @commands.command(name="croissanne")
+    async def croissanne(self,ctx):
+        await ctx.send('https://tenor.com/view/disney-pocahontas-munching-racoon-talking-with-my-mouth-full-gif-3663817')
 
 def setup(bot):
     bot.add_cog(Users(bot))
