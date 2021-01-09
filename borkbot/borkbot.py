@@ -2,6 +2,7 @@
 import discord
 from discord.ext import commands
 import logging
+import random
 
 
 BOT_PREFIX = (".", "!")
@@ -65,3 +66,10 @@ class BorkBot:
             channel = context.message.channel
             await channel.send(msg)
 
+        @self.client.command(name="wall")
+        async def wall(context):
+            guild = context.guild
+            channel = guild.get_channel(int(110262857903374336))
+            messages = await channel.pins()
+            message = random.choice(messages)
+            await context.send(f'"{message.content}" - _{message.author}_')
